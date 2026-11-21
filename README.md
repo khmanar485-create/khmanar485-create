@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Manar! 👋
 
-<!--
-**khmanar485-create/khmanar485-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Business Intelligence & Data Analytics Student** at ISG Sousse, Tunisia.
 
-Here are some ideas to get you started:
+I'm passionate about transforming data into meaningful insights and building data-driven solutions. My interests include Data Engineering, Business Intelligence, Machine Learning and AI-powered applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+
+- **Programming:** Python, SQL, Java, JavaScript
+- **Data & BI:** PostgreSQL, Power BI, Data Warehousing, ETL, Excel
+- **Machine Learning:** Pandas, NumPy, Scikit-learn, Random Forest
+- **Development:** React, Node.js, Express.js, REST APIs
+
+### 🚀 Featured Projects
+
+- 🏥 [Healthcare Data Warehouse](https://github.com/khmanar485-create/Healthcare-Data-Warehouse) — ETL pipelines, PostgreSQL and Power BI.
+- 🛒 [E-commerce Data Warehouse](https://github.com/khmanar485-create/ecommerce-data-warehouse) — Data integration, modelling and analytics.
+- 📊 [Customer Churn Prediction](https://github.com/khmanar485-create/customer-churn-prediction) — Machine Learning and predictive analytics.
+- 🚆 [Transit Delay Prediction](https://github.com/khmanar485-create/transit-delay-prediction) — Real-time data analysis and prediction.
+- 🏫 [School Management SaaS](https://github.com/khmanar485-create/ecole-aboukacem-chebbi-saas) — Full-stack application development.
+- 🏋️ [FitTrack](https://github.com/khmanar485-create/FitTrack) — Fitness and workout tracking application.
+
+### 🌍 Languages
+
+Arabic · French · English · Turkish · German · Spanish
+
+### 📫 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/manar-khadouma-519994322/) · [GitHub](https://github.com/khmanar485-create)
